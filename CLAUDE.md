@@ -20,6 +20,7 @@ Foydalanuvchi bilan **o'zbek tilida** gaplashing.
 - `lexrag/generate.py` — javob prompti, quote verifikatsiya (belgi darajasida normallashtirib qidirish)
 - `lexrag/pipeline.py` — savol oqimi, contexts tartibi, javob keshi
 - `lexrag/service.py` + `api.py` — Starlette API, validatsiya, idempotentlik (SHA-256), async 202, token-bucket rate limit
+- `docs/HANDOFF.md` — claude.ai suhbatining to'liq xulosasi (spetsifikatsiya, lex.uz topilmalari, qarorlar, tekshirilmaganlar)
 - `docs/QANDAY_ISHLAYDI.md` — formulalar va tushuntirishlar (foydalanuvchi o'rganyapti — yangi narsani tushuntirib bering)
 
 ## Qoidalar
