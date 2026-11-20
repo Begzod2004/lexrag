@@ -1,0 +1,21 @@
+id,batch,category,question,expected_answer,expected_doc_id,expected_article,answerable
+q001,b01,faktik,Yillik asosiy mehnat taʼtilining eng kam muddati qancha?,Har yilgi asosiy eng kam mehnat taʼtilining davomiyligi 21 kalendar kun.,lex:6257288,217-modda,true
+q002,b01,rus_kirill,Какой срок исковой давности установлен Гражданским кодексом?,Общий срок исковой давности — три года.,lex:111189,150-modda,true
+q003,b01,raqamlar,Dastlabki sinov muddati ko'pi bilan qancha bo'lishi mumkin?,"Uch oydan, tashkilot rahbarlari, oʻrinbosarlari, bosh buxgalterlar va alohida boʻlinma rahbarlari uchun olti oydan oshmasligi kerak.",lex:6257288,130-modda,true
+q004,b01,javobsiz,Toshkentda eng mazali osh qayerda tayyorlanadi?,,,,false
+q005,b01,faktik,Haftalik ish vaqtining normal davomiyligi necha soat?,Besh yoki olti kunlik ish haftasida haftasiga 40 soatdan ortiq boʻlishi mumkin emas.,lex:6257288,182-modda,true
+q006,b01,rus_kirill,Йиллик асосий меҳнат таътили неча кун?,Ҳар йилги асосий энг кам меҳнат таътили 21 календарь кун.,lex:6257288,217-modda,true
+q007,b01,raqamlar,Homiladorlik va tug'ish ta'tili necha kun beriladi?,"Tugʻruqqacha 70 kalendar kun va tugʻruqdan keyin 56 kalendar kun (qiyin tugʻish yoki ikki va undan ortiq bola tugʻilganda 70 kun).",lex:6257288,404-modda,true
+q008,b01,kop_modda,"Xodim ishdan o'z xohishi bilan ketmoqchi bo'lsa ish beruvchini necha kun oldin ogohlantiradi, sinov muddatida-chi?","Umumiy holda 14 kalendar kun oldin yozma ogohlantiradi; dastlabki sinov davrida taraflar kamida 3 kun oldin yozma ogohlantirib shartnomani bekor qilishi mumkin.",lex:6257288;lex:6257288,160-modda;132-modda,true
+q009,b01,faktik,Nikoh yoshi necha yosh etib belgilangan?,Erkaklar va ayollar uchun 18 yosh.,lex:104720,15-modda,true
+q010,b01,javobsiz,Marsga sayohat qilish uchun qanday viza kerak bo'ladi?,,,,false
+q011,b02,faktik,Jinoiy javobgarlik necha yoshdan boshlanadi?,"16 yoshdan; ayrim jinoyatlar uchun 14 yoshdan.",lex:111453,17-modda,true
+q012,b02,faktik,Fuqaroning to'liq muomala layoqati qachon vujudga keladi?,"Voyaga yetgach, yaʼni 18 yoshga toʻlgach; voyaga yetmasdan qonuniy nikohdan oʻtgan fuqaro nikoh vaqtidan eʼtiboran.",lex:111189,22-modda,true
+q013,b02,raqamlar,Qo'shilgan qiymat solig'ining stavkasi qancha?,"12 foiz (Soliq kodeksining 36-bobida nazarda tutilgan hollarda 0 foiz).",lex:4674902,258-modda,true
+q014,b02,rus_kirill,Какая ставка налога на доходы физических лиц для резидентов Узбекистана?,12 процентов.,lex:4674902,381-modda,true
+q015,b02,faktik,Prezidentlikka nomzod kamida necha yoshda bo'lishi kerak va Prezident necha yilga saylanadi?,Kamida 35 yosh; Prezident yetti yil muddatga saylanadi.,lex:6445145,106-modda,true
+q016,b02,noaniq,"Bolam 16 yoshda, uni rasmiy ishga olishsa bo'ladimi?","Ha, ishga qabul qilishga oʻn olti yoshdan yoʻl qoʻyiladi.",lex:6257288,118-modda,true
+q017,b02,raqamlar,18 yoshga to'lmagan xodimlarga yillik ta'til necha kun beriladi?,30 kalendar kunlik har yilgi asosiy uzaytirilgan taʼtil.,lex:6257288,218-modda,true
+q018,b02,ozgargan,Mehnat kodeksiga ko'ra mehnat sohasida kamsitish deganda nima tushuniladi?,"Ishchanlik sifatlari va mehnat natijalariga bogʻliq boʻlmagan belgilar (jinsi, yoshi, irqi, millati, tili va h.k.) boʻyicha bevosita yoki bilvosita cheklov yoki imtiyoz belgilash kamsitishdir (4-moddaning 2-qismi, 2026-yil 13-noyabrdagi tahrir).",lex:6257288,4-modda,true
+q019,b02,javobsiz,Как приготовить плов по-ташкентски?,,,,false
+q020,b02,noaniq,"Qarzimni qaytarmagan odamni sudga bersam, necha yil ichida da'vo qilsam bo'ladi?",Umumiy daʼvo muddati — uch yil.,lex:111189,150-modda,true
